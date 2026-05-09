@@ -1,4 +1,4 @@
-# cytography
+# cryptography
 1. What is Cryptography? — Goals & Basic Terms
 Cryptography is the science and practice of designing techniques for secure communication in the
 presence of adversaries. It provides tools and methods to achieve:
